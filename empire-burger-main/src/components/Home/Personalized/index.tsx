@@ -14,7 +14,7 @@ export function Personalized() {
           <div className={styles.boxText}>
             <h2>Atendimento <span>personalizado</span></h2>
             <p>Todos os nossos clientes são tratados como rei e rainha, com a nossa colunaria artesanal.</p>
-            <a href="#menufood" className={styles.btn}>Cardápio Imperial</a>
+            <a href="#menufood" className={styles.btn}>Cardápio Royals</a>
           </div>
         </AnimationOnScroll>
         <hr />

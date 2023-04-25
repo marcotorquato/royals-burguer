@@ -28,21 +28,21 @@ export function Instagram() {
       </div>
       <div className={styles.looptext}>
         <div>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
-          <h3>• #empireburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
+          <h3>• #Royalsburger</h3>
         </div>
       </div>
     </section>

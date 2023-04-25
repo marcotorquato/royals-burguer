@@ -24,12 +24,12 @@ export function MenuFood() {
       <div className={`${styles.containerFood} container`}>
         <div className={styles.box}>
           <AnimationOnScroll animateIn="animate__fadeIn" animateOnce className={styles.boxTitle}>
-            <h2>Escolha o seu combo imperial, <span>peça agora!</span></h2>
+            <h2>Escolha o seu combo Royals, <span>peça agora!</span></h2>
             <p>Temos vários tipos de pratos para a nossa realeza, fique esperto porque temos sempre  promoção!</p>
             <a href="https://www.ifood.com.br/" target="_blank" rel="noopener noreferrer" className={styles.btn}>Ver Cardápio Completo</a>
           </AnimationOnScroll>
           <AnimationOnScroll animateIn="animate__zoomIn" animateOnce className={styles.boxMenu}>
-            <h2>Cardápio imperial | Burger</h2>
+            <h2>Cardápio Royals | Burger</h2>
             <ul id="menuItem">
             {itemMenu.map((item) => {
               return (

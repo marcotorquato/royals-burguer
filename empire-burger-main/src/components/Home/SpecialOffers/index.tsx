@@ -13,8 +13,8 @@ export function SpecialOffers() {
         <div className={styles.boxes}>
           <div className={styles.box}>
             <div className={styles.text}>
-              <h3>Burger imperial+batata</h3>
-              <span>250kg</span>
+              <h3>Burger royals+batata</h3>
+              <span>250g</span>
               <p>Apenas <strong>Hoje</strong></p>
             </div>
             <img src={oferta1} alt="Imagem hamburguer" />
@@ -23,14 +23,14 @@ export function SpecialOffers() {
             <img src={oferta2} alt="Imagem batata" />
             <div className={styles.text}>
               <h3>batata</h3>
-              <span>150kg</span>
+              <span>150g</span>
             </div>
           </div>
           <div className={styles.box}>
             <img src={oferta3} alt="Imagem sorvete" />
             <div className={styles.text}>
               <h3>Sorvete</h3>
-              <span>50kg</span>
+              <span>50g</span>
             </div>
           </div>
         </div>

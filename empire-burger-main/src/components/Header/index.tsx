@@ -16,7 +16,7 @@ export function Header() {
     <header id="header">
       <div className="container">
         <a href="/" className="logo">
-          <img src={logo} alt="Empire Burger" />
+          <img src={logo} alt="Royals Burger" />
         </a>
         <div className="menuMob" id="menuMob">
           <nav>

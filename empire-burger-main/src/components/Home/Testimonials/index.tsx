@@ -67,7 +67,6 @@ export function Testimonials() {
                   <img src={item.image} alt={item.name} />
                   <div>
                     <h3>{item.name}</h3>
-                    <span>{item.age} anos</span>
                   </div>
                 </div>
               </div>
