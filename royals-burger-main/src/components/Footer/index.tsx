@@ -23,8 +23,8 @@ export function Footer() {
             <li><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src={instagramIcon} alt="Logo Instagram" /></a></li>
           </ul>
         </div>
-        <small>2023 © EmpireBurger. Todos os direitos reservados.</small>
-        <small>Desensolvido por <a className='dev' href="https://www.marcotorquato.com" target='_blank'>Marco Torquato</a></small>
+        <small>2023 © RoyalsBurger. Todos os direitos reservados.</small>
+        <small>Desensolvido por <a className={styles.dev} href="https://www.marcotorquato.com" target='_blank'>Marco Torquato</a></small>
 
       </div>
     </footer>
