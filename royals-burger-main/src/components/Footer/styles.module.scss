@@ -34,9 +34,7 @@
       img {
         filter: brightness(0) saturate(100%) invert(77%) sepia(35%) saturate(5089%) hue-rotate(349deg) brightness(100%) contrast(93%);
       }
-      .dev {
-        color: #f59a1c;
-      }
+      
     }
   }
   small {
@@ -68,4 +66,11 @@
       }
     }
   }
+}
+
+.dev {
+  color: #f59a1c;
+}
+.dev:hover {
+  color: #d10303;
 }
