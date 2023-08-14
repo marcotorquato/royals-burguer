@@ -44,7 +44,7 @@ export function Hour() {
           </div>
           <div className={styles.hash}>
             <p>Não esqueça de marcar a gente no Instagram:</p>
-            <h3>#empireburger</h3>
+            <h3>#royalsburger</h3>
           </div>
         </AnimationOnScroll>
       </div>
