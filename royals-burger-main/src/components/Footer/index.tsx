@@ -9,7 +9,7 @@ export function Footer() {
     <footer id={styles["footer"]}>
       <div className="container">
         <div className={styles.navFooter}>
-          <a href="#home" className={styles.logo}><img src={logoFooter} alt="Logo Empire Burguer" /></a>
+          <a href="#home" className={styles.logo}><img src={logoFooter} alt="Logo Royals Burguer" /></a>
           <nav>
             <ul>
               <li><a href="#home">Home</a></li>
